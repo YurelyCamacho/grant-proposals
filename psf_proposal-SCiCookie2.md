@@ -64,23 +64,23 @@
   improve the configuration for the dependencies (ruff, pre-commit, etc),
   unify the build-system configuration and others.
 
-  Also at OSL we want to apply for the PyOpenSci review process, so this
+  SciCookie Team also plans to apply for the PyOpenSci review process, so this
   grant will be used to review all the evaluation criteria, present the
   project there and apply the suggestions from the review process. It is
   very important for us to be able to apply to PyOPenSci as it is, if
   accepted, will allow us to raise awareness of our package and thus
   contribute to the development of the Python and open source community.  
 
-  Remember that this cookiecutter allows you to automate the process of
+  This cookiecutter allows you to automate the process of
   creating a Python project using a template that has updated
   technologies that are considered the most appropriate. The options can
   be configured according to our needs.
 
-  We are looking for Open science labs to grow and to be known by the
-  Python community, we have promoted some Python meetings (pycafe)
-  online. In the OSL discord we maintain a Python group, divided by
-  various topics of interest, and we spread Python through the various
-  projects in incubation that use it.
+  SciCookie Team looking for Open Science Labs to grow and to be known
+  by the Python community, we have promoted some Python meetings
+  (pycafe) online. In the OSL discord the SciCookie Team maintain a
+  Python group, divided by various topics of interest, and we spread
+  Python through the various projects in incubation that use it.
 
 - Beneficiaries *:
 
@@ -93,8 +93,9 @@
   recently graduated in statistics, they live in Merida-Venezuela, and
   they are enthusiastic about open science and programming languages
   like Python. They contributed to the translation of the documentation
-  at Spanish of the library scikit-learn. Other person responsible of
-  Project management and one Developer Senior for Review and quality
+  at Spanish of the library scikit-learn. Additionally, we would be
+  contracting 2 more people from the community who would be responsible
+  for Project management and one Developer Senior for Review and quality
   assurance.
 
   They will also be accompanied and mentored mainly by Ivan Ogasawara, a
