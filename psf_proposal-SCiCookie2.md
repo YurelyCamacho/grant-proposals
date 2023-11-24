@@ -45,24 +45,44 @@
 
 - FAQ & Grants Program Info *: I have read and understand these pages.
 
-- Date *: 12/13/2023
+- Date *: 01/15/2024
 
 - Event’s/project’s website *: https://github.com/osl-incubator/scicookie
 
-- Requested Grant Amount (USD) *: 2920
+- Requested Grant Amount (USD) *: 2850
 
 - Grant Amount Breakdown *: The money will be used for development work,
   maintenance, project management and review.
 
 - Budget *: https://docs.google.com/spreadsheets/d/1WlYZVKB-9x3q2WAf0rhcCuukaEMUs7Xn-sE8BqBay-8/edit#gid=528073274
 
+- Introduction : 
+
+  SciCookie, developed by Open Science Labs, is a versatile tool that
+  generates projects from templates, streamlining the initial setup
+  process for developers. A project template acts as a pre-arranged
+  framework for new projects, providing a standardized but customizable
+  structure. This helps users quickly kick-start their development with
+  best practices, especially beneficial in, but not limited to, the
+  scientific Python community. By reducing setup time and ensuring
+  consistency, project templates like SciCookie enable developers to
+  focus more on unique aspects of their work rather than initial
+  configuration.
+
 - Objective *:
 
-  Improve the project template SciCookie, the grant would help us to
-  update the dependencies and some configuration changes when necessary.
-  For example, bugfixes, change the TUI lib to something more reliable,
-  improve the configuration for the dependencies (ruff, pre-commit, etc),
-  unify the build-system configuration and others.
+  The following is an explicit list of some of the objectives that we
+  can achieve with this grant:
+
+  - Enhancement of Project Template Standards.
+  - Documentation and User Interface Improvements.
+  - Code Quality and Community Standards Compliance.
+
+  The grant would help us to update the dependencies and some
+  configuration changes when necessary. For example, bugfixes, change
+  the TUI lib to something more reliable, improve the configuration for
+  the dependencies (ruff, pre-commit, etc), unify the build-system
+  configuration and others.
 
   SciCookie Team also plans to apply for the PyOpenSci review process, so this
   grant will be used to review all the evaluation criteria, present the
@@ -70,11 +90,6 @@
   very important for us to be able to apply to PyOPenSci as it is, if
   accepted, will allow us to raise awareness of our package and thus
   contribute to the development of the Python and open source community.  
-
-  This cookiecutter allows you to automate the process of
-  creating a Python project using a template that has updated
-  technologies that are considered the most appropriate. The options can
-  be configured according to our needs.
 
   SciCookie Team looking for Open Science Labs to grow and to be known
   by the Python community, we have promoted some Python meetings
@@ -93,10 +108,12 @@
   recently graduated in statistics, they live in Merida-Venezuela, and
   they are enthusiastic about open science and programming languages
   like Python. They contributed to the translation of the documentation
-  at Spanish of the library scikit-learn. Additionally, we would be
-  contracting 2 more people from the community who would be responsible
-  for Project management and one Developer Senior for Review and quality
-  assurance.
+  at Spanish of the library scikit-learn. They will work as developers,
+  each with an hourly intensity of 70 hours during the eight weeks of
+  the project. Additionally, we would be contracting 2 more people from
+  the community who would be responsible for Project management and one
+  Developer Senior for Review and quality assurance, these individuals
+  will have an hourly intensity of 10 and 20 hours, respectively.
 
   They will also be accompanied and mentored mainly by Ivan Ogasawara, a
   member of the Open Science Labs steering council. He has been chair of
