@@ -45,7 +45,7 @@
 
 - FAQ & Grants Program Info *: I have read and understand these pages.
 
-- Date *: 01/15/2024
+- Date *: 02/06/2024
 
 - Event’s/project’s website *: https://github.com/osl-incubator/scicookie
 
@@ -56,7 +56,7 @@
 
 - Budget *: https://docs.google.com/spreadsheets/d/1WlYZVKB-9x3q2WAf0rhcCuukaEMUs7Xn-sE8BqBay-8/edit#gid=528073274
 
-- Introduction : 
+- Introduction :
 
   SciCookie, developed by Open Science Labs, is a versatile tool that
   generates projects from templates, streamlining the initial setup
